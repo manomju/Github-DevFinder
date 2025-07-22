@@ -33,6 +33,7 @@ npm install
 ```bash
 npm start
 ```
+For reference pls look into screeshots attached
 
 The app will run on [http://localhost:3000](http://localhost:3000)
 
